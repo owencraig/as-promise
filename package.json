@@ -1,0 +1,22 @@
+{
+  "name": "as-promise",
+  "version": "1.0.0",
+  "description": "Convert functions to promises",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/owencraig/as-promise.git"
+  },
+  "keywords": [
+    "promise"
+  ],
+  "author": "Owen Craig <owen@owencraig.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/owencraig/as-promise/issues"
+  },
+  "homepage": "https://github.com/owencraig/as-promise#readme"
+}
